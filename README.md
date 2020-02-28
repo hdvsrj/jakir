@@ -1,0 +1,2 @@
+# jakir
+apps devoloper
